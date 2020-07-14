@@ -37,22 +37,22 @@ a {
 
 @font-face {
     font-family:"SFProDisplay-Semibold";
-    src: url("SFProDisplay-Semibold.ttf") format("truetype");
+    src: url("Helvetica Neu Bold.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Regular";
-    src: url("SFProDisplay-Regular.ttf") format("truetype");
+    src: url("Helvetica Neu Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Light";
-    src: url("SFProDisplay-Light.ttf") format("truetype");
+    src: url("Helvetica Neu Light.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Medium";
-    src: url("SFProDisplay-Medium.ttf") format("truetype");
+    src: url("Helvetica Neu Regular.ttf") format("truetype");
 }
 
 .container {
