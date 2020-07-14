@@ -42,17 +42,17 @@ a {
 
 @font-face {
     font-family:"SFProDisplay-Regular";
-    src: url("Helvetica Neu Regular.ttf") format("truetype");
+    src: url("HelveticaNeue Medium.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Light";
-    src: url("Helvetica Neu Light.ttf") format("truetype");
+    src: url("HelveticaNeue Light.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Medium";
-    src: url("Helvetica Neu Regular.ttf") format("truetype");
+    src: url("HelveticaNeue Thin.ttf") format("truetype");
 }
 
 .container {
