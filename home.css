@@ -1,0 +1,212 @@
+body{
+    text-align: left;
+    background: #F5F8FA;
+    //background: #E1E8ED;
+}
+a {
+    color: unset;
+    text-decoration: unset;
+}
+.twtr
+{
+    color: #1DA1F2;
+    font-family: SFProDisplay-Semibold, sans-serif;
+    font-style: normal;
+}
+
+.bpl
+{
+    color: #3BC8A5;
+    font-family: SFProDisplay-Semibold, sans-serif;
+    font-style: normal;
+}
+
+.sarc
+{
+    color: #034EA2;
+    font-family: SFProDisplay-Semibold, sans-serif;
+    font-style: normal;
+}
+
+.sbu
+{
+    color: #D52027;
+    font-family: SFProDisplay-Semibold, sans-serif;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"SFProDisplay-Semibold";
+    src: url("SFProDisplay-Semibold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family:"SFProDisplay-Regular";
+    src: url("SFProDisplay-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family:"SFProDisplay-Light";
+    src: url("SFProDisplay-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family:"SFProDisplay-Medium";
+    src: url("SFProDisplay-Medium.ttf") format("truetype");
+}
+
+.container {
+    /*max-width: 600px; */
+    margin: 0 auto;
+    padding: 100px 0;
+    height: 400px;
+    text-align: left;
+}
+.container h1 {
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    margin-bottom: -30px;
+    padding:0;
+    font-family: SFProDisplay-Regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 62px;
+    /* or 97% */
+
+    letter-spacing: 0.98104px;
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+    padding-left: 50px;
+    text-align: left;
+}
+.container h2 {
+    margin-bottom:  70px;
+    font-family: SFProDisplay-Medium;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 62px;
+    /* or 97% */
+    letter-spacing: 0.98104px;
+    color: rgba(101, 119, 134, 0.75);
+    border-radius: 12.1016px;
+    padding-left: 50px;
+    text-align: left;
+}
+.container h3 {
+    margin:0;
+    padding:0;
+    padding-left: 50px;
+    text-align: left;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 62px;
+    /* or 172% */
+    letter-spacing: 0.98104px;
+    /* Label / Light / Secondary */
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+.container h4 {
+    margin:0;
+    padding:0;
+    padding-left: 50px;
+    text-align: left;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 62px;
+    /* or 172% */
+    letter-spacing: 0.98104px;
+    /* Label / Light / Secondary */
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+.container h5 {
+    margin:0;
+    padding:0;
+    padding-left: 50px;
+    text-align: left;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 62px;
+    /* or 172% */
+    letter-spacing: 0.98104px;
+    /* Label / Light / Secondary */
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+.container h6 {
+    margin:0;
+    padding:0;
+    padding-left: 50px;
+    text-align: left;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 62px;
+    /* or 172% */
+    letter-spacing: 0.98104px;
+    /* Label / Light / Secondary */
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 62px;
+    letter-spacing: 0.98104px;
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+
+form {
+    padding: 20px 0;
+    position: relative;
+    z-index: 2;
+}
+form input {
+    appearance: none;
+    outline: 0;
+    border: 1px solid white;
+    background-color: white;
+    width: 343px;
+    height: 30px;
+    border-radius: 16px;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: left;
+    font-size: 18px;
+    color: black;
+    -webkit-transition-duration: 0.25s;
+    transition-duration: 0.25s;
+    font-weight: 300;
+    font-family: SFProDisplay-Semibold;
+    font-style: normal
+}
+form input:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+form input:focus {
+    background-color: white;
+    width: 343px;
+    color: black;
+}
+
