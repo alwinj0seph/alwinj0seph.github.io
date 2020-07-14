@@ -47,12 +47,12 @@ a {
 
 @font-face {
     font-family:"SFProDisplay-Light";
-    src: url("./SFProDisplay-Light.ttf.ttf") format("truetype");
+    src: url("./SFProDisplay-Light.ttf") format("truetype");
 }
 
 @font-face {
     font-family:"SFProDisplay-Medium";
-    src: url("./SFProDisplay-Medium.ttf.ttf") format("truetype");
+    src: url("./SFProDisplay-Medium.ttf") format("truetype");
 }
 
 .container {
