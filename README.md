@@ -1,2 +1,2 @@
-# alwinj0seph.github.io
-Alwin Joseph's Personal Website &amp; Blog
+# Alwin's Website
+Alwin's Personal Website &amp; Blog
