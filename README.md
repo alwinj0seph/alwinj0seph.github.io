@@ -1,2 +1,2 @@
-# Alwin's Website
-Alwin's Personal Website &amp; Blog
+# My Website
+Personal Website &amp; Blog
