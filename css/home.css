@@ -6,22 +6,21 @@ a {
     color: unset;
     text-decoration: unset;
 }
+
 .intc
 {
-    /* 
-    Intel Light Blue = 00C7FD
-    Intel Classic Blue = 0068B5 
-    */
     color: #00C7FD; 
     font-family: SFProDisplay-Semibold, sans-serif;
     font-style: normal;
 }
+
 .net
 {
     color: #f38020;
     font-family: SFProDisplay-Semibold, sans-serif;
     font-style: normal;
 }
+
 .twtr
 {
     color: #1DA1F2;
