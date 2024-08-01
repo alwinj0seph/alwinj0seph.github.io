@@ -1,2 +1,2 @@
-# My Website
-Personal Website &amp; Blog
+# A1win's Website
+A simple personal homepage
