@@ -175,25 +175,17 @@ a {
     color: rgba(101, 119, 134, 0.6);
     border-radius: 12.1016px;
 }
-.container h7 {
-    margin:0;
-    padding:0;
-    padding-left: 50px;
-    text-align: left;
-    font-family: SFProDisplay-Light;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 36px;
-    line-height: 62px;
-    /* or 172% */
-    letter-spacing: 0.98104px;
-    /* Label / Light / Secondary */
-    color: rgba(101, 119, 134, 0.6);
-    border-radius: 12.1016px;
+
+.form {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: flex-start; /* Align to the left */
+    gap: 10px; /* Add spacing between elements */
 }
-.container h8 {
-    margin:0;
-    padding:0;
+
+.h7, .h8 {
+    margin: 0;
+    padding: 0;
     padding-left: 50px;
     text-align: left;
     font-family: SFProDisplay-Light;
@@ -201,9 +193,7 @@ a {
     font-weight: normal;
     font-size: 36px;
     line-height: 62px;
-    /* or 172% */
     letter-spacing: 0.98104px;
-    /* Label / Light / Secondary */
     color: rgba(101, 119, 134, 0.6);
     border-radius: 12.1016px;
 }
@@ -228,13 +218,6 @@ form {
     padding: 20px 0;
     position: relative;
     z-index: 2;
-}
-
-.form {
-    display: flex;
-    flex-direction: column; /* Stack elements vertically */
-    align-items: flex-start; /* Align to the left */
-    gap: 10px; /* Add spacing between elements */
 }
 
 form input {
