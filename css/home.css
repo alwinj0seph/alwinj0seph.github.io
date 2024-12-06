@@ -7,6 +7,13 @@ a {
     text-decoration: unset;
 }
 
+.docn
+{
+    color: #0080FF; 
+    font-family: SFProDisplay-Semibold, sans-serif;
+    font-style: normal;
+}
+
 .intc
 {
     color: #0068B5; 
@@ -16,7 +23,7 @@ a {
 
 .net
 {
-    color: #f38020;
+    color: #F38020;
     font-family: SFProDisplay-Semibold, sans-serif;
     font-style: normal;
 }
@@ -174,6 +181,22 @@ a {
     border-radius: 12.1016px;
 }
 .container h7 {
+    margin:0;
+    padding:0;
+    padding-left: 50px;
+    text-align: left;
+    font-family: SFProDisplay-Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 62px;
+    /* or 172% */
+    letter-spacing: 0.98104px;
+    /* Label / Light / Secondary */
+    color: rgba(101, 119, 134, 0.6);
+    border-radius: 12.1016px;
+}
+.container h8 {
     margin:0;
     padding:0;
     padding-left: 50px;
