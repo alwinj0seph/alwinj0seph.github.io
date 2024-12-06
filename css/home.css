@@ -180,7 +180,7 @@ a {
     display: flex;
     flex-direction: column; /* Stack elements vertically */
     align-items: flex-start; /* Align to the left */
-    gap: 10px; /* Add spacing between elements */
+    gap: 5px; /* Add spacing between elements */
 }
 
 .h7, .h8 {
