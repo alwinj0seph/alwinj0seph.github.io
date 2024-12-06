@@ -80,7 +80,7 @@ a {
     /*max-width: 600px; */
     margin: 0 auto;
     padding: 100px 0;
-    height: 400px;
+    height: 450px;
     text-align: left;
 }
 .container h1 {
@@ -103,7 +103,7 @@ a {
     text-align: left;
 }
 .container h2 {
-    margin-bottom:  70px;
+    margin-bottom:  50px;
     font-family: SFProDisplay-Medium;
     font-style: normal;
     font-weight: 600;
