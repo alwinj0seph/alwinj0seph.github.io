@@ -229,6 +229,14 @@ form {
     position: relative;
     z-index: 2;
 }
+
+.form {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: flex-start; /* Align to the left */
+    gap: 10px; /* Add spacing between elements */
+}
+
 form input {
     appearance: none;
     outline: 0;
